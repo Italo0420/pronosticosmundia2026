@@ -392,24 +392,6 @@ header .subtitle {
   z-index: 1500;
 }
 
-/* Estilos para la tabla de posiciones */
-.group-table {
-  width: 100%;
-  margin-top: 10px;
-  border-collapse: collapse;
-  background-color: #242435;
-  color: #fff;
-  font-size: 0.9rem;
-}
-.group-table th, .group-table td {
-  padding: 8px;
-  text-align: center;
-  border-bottom: 1px solid #3a3a52;
-}
-.group-table thead {
-  background-color: #0f4c81;
-}
-
 @keyframes spin {
   100% { transform: rotate(320deg); }
 }
