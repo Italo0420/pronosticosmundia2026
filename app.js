@@ -302,3 +302,4 @@ function triggerConfetti() {
   if (!container) return;
   container.innerHTML = '🎉⚽🎉⚽🎉 ¡CÁTEDRA SENTADA! ⚽🎉⚽🎉⚽';
   setTimeout(() => container.innerHTML = '', 5000);
+}
