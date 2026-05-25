@@ -6,18 +6,18 @@
 const RESULTS = {
   // Configuración de los 12 grupos del Mundial (4 equipos por grupo)
   "groups": {
-    "A": ["México", "Sudáfrica", "República Checa", "Corea del Sur"],
-    "B": ["Suiza", "Canadá", "Qatar", "Bosnia y Herzegovina"],
-    "C": ["Brasil", "Escocia", "Marruecos", "Haití"],
-    "D": ["Turquía", "Paraguay", "EE.UU.", "Australia"],
-    "E": ["Costa de Marfil", "Curazao", "Ecuador", "Alemania"],
-    "F": ["Países Bajos", "Japón", "Suecia", "Túnez"],
-    "G": ["Egipto", "Bélgica", "Nueva Zelanda", "Irán"],
-    "H": ["Uruguay", "Cabo Verde", "España", "Arabia Saudita"],
-    "I": ["Noruega", "Francia", "Irak", "Senegal"],
-    "J": ["Jordania", "Argentina", "Argelia", "Austria"],
-    "K": ["RD Congo", "Portugal", "Colombia", "Uzbekistán"],
-    "L": ["Ghana", "Panamá", "Croacia", "Inglaterra"]
+      "A": ["Mexico", "South Africa", "Czech Republic", "South Korea"],
+    "B": ["Switzerland", "Canada", "Qatar", "Bosnia & Herzegovina"],
+    "C": ["Brazil", "Scotland", "Morocco", "Haiti"],
+    "D": ["Turkey", "Paraguay", "USA", "Australia"],
+    "E": ["Ivory Coast", "Curaçao", "Ecuador", "Germany"],
+    "F": ["Netherlands", "Japan", "Sweden", "Tunisia"],
+    "G": ["Egypt", "Belgium", "New Zealand", "Iran"],
+    "H": ["Uruguay", "Cape Verde", "Spain", "Saudi Arabia"],
+    "I": ["Norway", "France", "Iraq", "Senegal"],
+    "J": ["Jordan", "Argentina", "Algeria", "Austria"],
+    "K": ["DR Congo", "Portugal", "Colombia", "Uzbekistan"],
+    "L": ["Ghana", "Panama", "Croatia", "England"]
   },
 
   // Estructura de la Fase Eliminatoria (Knockouts)
